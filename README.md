@@ -38,7 +38,7 @@
 
 **Databases & messaging**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,cassandra&perline=6" alt="Databases and messaging" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" alt="Databases and messaging" /></a>
 
 ---
 
